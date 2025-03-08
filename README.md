@@ -1,6 +1,13 @@
 # North America Retail Sales Optimization Analysis
 
 ## Project Overview
+Sales Data Analysis for North America Retail
+As a data analyst, analyze sales data to uncover key insights on:
+-  Profitability
+-  Business performance
+-  Product performance
+-  Customer behavior
+Using a dataset containing product, customer, sales, profit, and return details, identify areas for improvement and suggest strategies to enhance efficiency and profitability, ultimately informing business decisions for North America Retail.
 
 ## Data Source
 Retail supply Chain Sales AnalysisCSV was the dataset used.
@@ -114,5 +121,18 @@ GROUP BY Sub_category;
 ```
 
 ## Insights
+1. Delivery Times: Products in the Chairs and Bookcases categories take an average of 32 days to deliver, while Furnishing products take 34 days, and Tables take 36 days.
+2. Customer Segment Delivery Times: Corporate customers experience the longest delivery times (36 days), followed by Home Office customers (35 days), and Consumers (32 days).
+3. Fastest Delivered Products: The top 5 fastest delivered products are all  bookcases, with delivery times under 24 hours.
+4. Slowest Delivered Products: The top 5 slowest delivered products include chairs, a floor lamp, and a wall clock.
+5. Profitability by Sub-Category: Chairs generate the most profit ($36,471.10), while Tables generate the least profit.
+6. Profitability by Customer Segment: The Consumer segment generates the most profit, while the Corporate segment generates the least profit.
+7. Top Consumers: The top 5 consumers are Laura Armstrong, Joe Elijah, Seth Vernon, Quincy Jones, and Maria Etezadi.
 ## Recommendation 
-
+1. Optimize Supply Chain: Streamline the supply chain to reduce delivery times, especially for Corporate customers.
+2. Improve Product Availability: Ensure that fast-selling products, such as bookcases, are consistently available to meet demand.
+3. Enhance Customer Experience: Provide regular updates on delivery times and offer expedited shipping options to improve customer satisfaction.
+4. Targeted Marketing: Focus marketing efforts on the Consumer segment, which generates the most profit.
+5. Product Development: Consider expanding the Chairs product line, which generates the most profit, and improving the design and functionality of Tables, which generate the least profit.
+6. Loyalty Program: Develop a loyalty program to reward top consumers, such as Laura Armstrong and Joe Elijah, and encourage repeat business.
+7. Data-Driven Decision Making: Continue to analyze sales data to inform business decisions and drive growth.
