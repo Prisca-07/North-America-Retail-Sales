@@ -137,3 +137,6 @@ GROUP BY Sub_category;
 5. Product Development: Consider expanding the Chairs product line, which generates the most profit, and improving the design and functionality of Tables, which generate the least profit.
 6. Loyalty Program: Develop a loyalty program to reward top consumers, such as Laura Armstrong and Joe Elijah, and encourage repeat business.
 7. Data-Driven Decision Making: Continue to analyze sales data to inform business decisions and drive growth.
+
+
+### MyDataClique
