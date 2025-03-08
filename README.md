@@ -15,7 +15,8 @@ Retail supply Chain Sales AnalysisCSV was the dataset used.
 - SQL
 ## Data cleaning and preparation
 1. Data importation and inspection
-2. Splitted the data into facts and dimension table and created ERD
+2. Created facts and dimension tables
+3. Created ERD
 ## Objectives
 The goal of your analysis is to answer key business questions such as: 
 1. What was the Average delivery days for different 
